@@ -1,0 +1,8 @@
+#ifndef RECTANGLECUBOIDCALCULATOR_LIBCUB_H
+#define RECTANGLECUBOIDCALCULATOR_LIBCUB_H
+
+double cub(double, double, double);
+
+void handleCub();
+
+#endif //RECTANGLECUBOIDCALCULATOR_LIBCUB_H
