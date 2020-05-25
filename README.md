@@ -4,7 +4,7 @@ C console program which calculates area of a rectangle and volume of a cuboid.
 Version: 1.2
 
 ## Installation:
-Download [https://github.com/Lavertis/RectangleCuboidCalc/raw/master/rectanglecuboidcalc-1.2.tar.gz](rectanglecuboidcalc-1.2.tar.gz).
+Download [rectanglecuboidcalc-1.2.tar.gz](https://github.com/Lavertis/RectangleCuboidCalc/raw/master/rectanglecuboidcalc-1.2.tar.gz).
 
 `tar zxvf rectanglecuboidcalc-1.2.tar.gz`
 
